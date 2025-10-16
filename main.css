@@ -1,0 +1,14 @@
+img {
+    border-radius:50%;
+
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.bar {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
