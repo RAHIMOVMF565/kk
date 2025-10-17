@@ -57,3 +57,17 @@ body {
 .fa-brands {
     padding: 10px;
 }
+
+.skills {
+    background: #0ef;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+.skills:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px #0ef;
+}
