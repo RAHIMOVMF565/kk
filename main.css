@@ -57,9 +57,3 @@ body {
 .fa-brands {
     padding: 10px;
 }
-
-.fa-brands:hover {
-    background: transparent;
-    box-shadow: none;
-    color: #fff;
-}
