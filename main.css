@@ -83,7 +83,8 @@ h2 span {
 }
 
 .n-container {
-    
+    display: flex;
+    gap: 10vh;
 }
 
 .btn1 {
@@ -116,7 +117,34 @@ h2 span {
 .img {
     display: flex;
     /* flex-wrap: wrap; */
-    gap: 20vh;
+    gap: 10vh;
     /* border: 1px solid; */
     justify-content: center;
+}
+
+.acer {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    display: flex;
+    gap: 10px;
+}
+
+.lenova 
+{
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    display: flex;
+    gap: 10px;
+}
+
+.moc {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
 }
