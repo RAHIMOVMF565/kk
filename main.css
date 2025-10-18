@@ -126,8 +126,6 @@ h2 span {
     padding: 5px 10px;
     border-radius: 10px;
     background-color: antiquewhite;
-    display: flex;
-    gap: 10px;
 }
 
 .lenova 
@@ -135,8 +133,6 @@ h2 span {
     padding: 5px 10px;
     border-radius: 10px;
     background-color: antiquewhite;
-    display: flex;
-    gap: 10px;
 }
 
 .moc {
@@ -145,6 +141,4 @@ h2 span {
     background-color: antiquewhite;
     justify-content: center;
     align-items: center;
-    display: flex;
-    gap: 10px;
 }
